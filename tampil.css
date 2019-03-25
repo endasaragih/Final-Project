@@ -1,0 +1,9 @@
+
+.nav-item:hover{
+	background-color: red;
+	color: red;
+}
+.text{
+	background-color: black;
+	justify-content: center;
+}
